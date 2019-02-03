@@ -1,4 +1,4 @@
-A circle analog clock, inspired by @CodingTrain
+A circle analog clock, inspired by @TheCodingTrain
 
 View as website:
-https://rawgit.com/kleinesfilmroellchen/Circle-Analog-Clock/master/index.html
+https://klfr.spdns.de/webapps/p5jsclock/
